@@ -20,7 +20,38 @@
         <option value="$PROJECT_DIR$/forensics-api-plugin/pom.xml" />
         <option value="$PROJECT_DIR$/git-forensics-plugin/pom.xml" />
         <option value="$PROJECT_DIR$/warnings-ng-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/code-quality-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/font-awesome-api-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/bootstrap-api-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/datatables-api-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/echarts-api-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/jquery3-api-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/popper-api-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/bootstrap4-api-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/codingstyle/pom.xml" />
       </list>
+    </option>
+  </component>
+  <component name="NullableNotNullManager">
+    <option name="myDefaultNullable" value="org.jetbrains.annotations.Nullable" />
+    <option name="myDefaultNotNull" value="org.jetbrains.annotations.NotNull" />
+    <option name="myNullables">
+      <value>
+        <list size="12">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
+          <item index="2" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
+          <item index="3" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.Nullable" />
+          <item index="4" class="java.lang.String" itemvalue="android.support.annotation.Nullable" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.Nullable" />
+          <item index="6" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNullable" />
+          <item index="7" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.Nullable" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableDecl" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableType" />
+          <item index="10" class="java.lang.String" itemvalue="com.android.annotations.Nullable" />
+          <item index="11" class="java.lang.String" itemvalue="org.eclipse.jgit.annotations.Nullable" />
+        </list>
+      </value>
     </option>
     <option name="ignoredFiles">
       <set>
